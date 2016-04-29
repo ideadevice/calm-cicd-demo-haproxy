@@ -5,4 +5,4 @@ keys = [
   "/app/servers",
 ]
 #reload_cmd = "docker kill -s HUP haproxy"
-reload_cmd = "docker restart haproxy"
+#reload_cmd = "docker restart haproxy"
